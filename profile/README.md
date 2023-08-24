@@ -17,13 +17,13 @@
   <img src="https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif">
 </p>
   </div>
-
+<!--
 <p align="center">
-  <b><!--<a href="https://github.com/givpn/aio">-->Contact</a></b><br>
+  <b><!--<a href="https://github.com/givpn/aio">--><!--Contact</a></b><br>
 <p align="center">
 <a href="https://t.me/givpn/"> <img src="https://img.shields.io/badge/Chat-Telegram-blue" style="max-width:200%;">
 <a href="https://t.me/givpn_grup/"> <img src="https://img.shields.io/badge/Grup-Telegram-blue" style="max-width:200%;">
-
+-->
 <p align="center">
   <b><!--<a href="https://github.com/givpn/aio">-->Donate</a></b><br>
 <p align="center">
