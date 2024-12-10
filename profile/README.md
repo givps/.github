@@ -10,7 +10,7 @@
 <p align="center">
   <b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Pinned+favorites" alt="Typing SVG" /></a></b><br>
   <b><a href="https://github.com/givps/autoset">autoset</a></b><br>
-  <b><a href="https://github.com/givpn/AutoScriptXray">AutoScriptXray</a></b><br>
+  <b><a href="https://github.com/givps/AutoScriptXray">AutoScriptXray</a></b><br>
   <br><br>
     <b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&pause=1000&color=17F704&center=true&vCenter=true&width=435&lines=DON'T+FORGET+TO+BE+HAPPY" alt="Typing SVG" /></a></b><br>
   <img src="https://media.giphy.com/media/xpipBcvgSTptK/giphy.gif">
