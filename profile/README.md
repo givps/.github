@@ -25,9 +25,9 @@
 -->
 <!--<p align="center">-->
 <h1>Telegram</h1>
-<a href="https://t.me/givpn_grup/"> <img src="https://img.shields.io/badge/Telegram-Grup-blue" style="max-width:200%;">
+<a href="https://t.me/givpn_grup/"> <img src="https://img.shields.io/badge/telegram-blue" style="max-width:200%;">
 <h1>Github Discussions</h1>
-<a href="https://github.com/orgs/givps/discussions"> <img src="https://img.shields.io/badge/Github-Discussions-blue" style="max-width:200%;">
+<a href="https://github.com/orgs/givps/discussions"> <img src="https://img.shields.io/badge/github-discussions-blue" style="max-width:200%;">
   <h1><!--<a href="https://github.com/givpn/aio">-->Donate</h1>
 <!--<p align="center">-->
 <!--<a href="https://paypal.me/givpn11"> <img src="https://img.shields.io/badge/Donate-PayPal-yellow" style="max-width:200%;">
